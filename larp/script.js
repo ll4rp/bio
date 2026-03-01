@@ -362,7 +362,7 @@ function updateDiscordProfile(data) {
 }
 
 // Lanyard Spotify Integration
-const DISCORD_ID = '366032523689721856';
+const DISCORD_ID = '363651552722026497';
 const LANYARD_API = `https://api.lanyard.rest/v1/users/${DISCORD_ID}`;
 
 let lastTrackId = null;
