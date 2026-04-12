@@ -1,5 +1,5 @@
 // Discord Servers Integration
-const DISCORD_INVITES = ['2rich', 'tickler', 'SurAF7pcZD'];
+const DISCORD_INVITES = ['2rich', 'FFBJWc6x', 'VmxznMzAtC'];
 
 async function loadDiscordServers() {
     const serversGrid = document.getElementById('servers-grid');
